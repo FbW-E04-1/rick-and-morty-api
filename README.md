@@ -1,1 +1,2 @@
-# rick-and-morty-api
+# Rick and Morty search engine
+
